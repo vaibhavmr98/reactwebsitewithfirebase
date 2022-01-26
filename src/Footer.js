@@ -70,8 +70,8 @@ const Footer = () => {
                     </div>
                     <div className="col-3 mx-auto">
                       <a
-                        href="https://www.instagram.com/thapatechnical/"
-                        target="_thapa">
+                        href="https://www.instagram.com/_vaibhavrawat_/"
+                        target="_blank">
                         <i className="fab fa-instagram fontawesome-style"></i>
                       </a>
                     </div>
